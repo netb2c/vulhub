@@ -19,7 +19,7 @@ pip install docker-compose
 
 ```bash
 # 拉取项目
-git clone git@github.com:phith0n/vulhub.git
+git clone git@github.com:netb2c/vulhub.git
 cd vulhub
 
 # 进入某一个漏洞/环境的目录
